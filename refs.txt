@@ -1,1 +1,2 @@
-https://www.microsoft.com/zh-cn/software-download/windows10
+Windows 10 Resource: https://www.microsoft.com/zh-cn/software-download/windows10
+Install Windows 10 using USB Disk: http://windows.microsoft.com/en-US/windows-8/boot-install-partition-media-usb-dvd?ocid=W8_setup_partition
